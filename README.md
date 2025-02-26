@@ -1,1 +1,3 @@
-# US-Income-Data-Cleaning
+# US Income Data Analysis
+
+This project involves cleaning and analyzing US household income data to identify trends and patterns over multiple years. The analysis focuses on income variations across states and their correlation with economic factors such as inflation, growth, and policy changes. By removing duplicates and ensuring data integrity, the project aims to uncover insights on income disparities and offer recommendations to address economic challenges at both state and national levels. The goal is to provide actionable data-driven insights for policymakers to improve household income and reduce income inequality across the US.
